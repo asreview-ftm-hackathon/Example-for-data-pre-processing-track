@@ -7,7 +7,7 @@ some inspiration!
 The data pre-processing track is a track that will help us to prepare the data
 for the next track.
 
-The `data` folder contains plain data as found in the ftm dataset.
+The `data` folder will contain the FTM data from [this link].
 
 The `scripts` folder contains scripts that will be used to prepare the plain
 data.
