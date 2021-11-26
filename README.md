@@ -14,4 +14,4 @@ the raw data into a more usable format, as well as removing noise and missing da
 
 Input data is provided by Follow The Money on their own [repository](https://github.com/ftmnl/asr).
 
-The script stores the result file to `pre-processing/preprocessed.xlsx`.
+The script stores the result file to `data/preprocessed.xlsx`.
